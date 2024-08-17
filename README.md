@@ -26,6 +26,7 @@
 - :hourglass_flowing_sand: Currently exploring advanced data manipulation techniques and cloud platforms like Google Cloud & Firebase.
 - :rocket: Always eager to collaborate on data-driven projects and experiment with new technologies.
 - :man_technologist: Over 13 years of experience in data analytics and programming, with a strong background in survey programming and project management.
+- :mortar_board: **Recently obtained certifications in Data Science, Machine Learning, and Python.**
 - :dart: Passionate about leveraging data to drive business insights and innovation.
 - :zap: Fun fact: I enjoy solving complex data challenges and creating insightful visualizations.<br>
 
